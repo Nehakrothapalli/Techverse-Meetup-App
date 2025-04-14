@@ -1,2 +1,2 @@
-# project
+# Techverse app
 final project
